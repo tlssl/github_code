@@ -1,0 +1,13 @@
+certificate:
+  csr_path: '/csr_file.csr'
+  key_path: '/private_key.key'
+  cert_path: '/output_file.pem'
+  country: ''
+  state: ''
+  locality: ''
+  organization: ''
+  common_name: ''
+  url: ''
+  api_key: ''
+  profile_id: ''
+  seat_id: ''
